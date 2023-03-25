@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+    <card>
+        <id>0</id>
+        <name>Red 0</name>
+        <number>0</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>1</amount>
+    </card>
+    <card>
+        <id>1</id>
+        <name>Red 1</name>
+        <number>1</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>2</id>
+        <name>Red 2</name>
+        <number>2</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>3</id>
+        <name>Red 3</name>
+        <number>3</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>4</id>
+        <name>Red 4</name>
+        <number>4</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>5</id>
+        <name>Red 5</name>
+        <number>5</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>6</id>
+        <name>Red 6</name>
+        <number>6</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>7</id>
+        <name>Red 7</name>
+        <number>7</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>8</id>
+        <name>Red 8</name>
+        <number>8</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>9</id>
+        <name>Red 9</name>
+        <number>9</number>
+        <color>Red</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>10</id>
+        <name>Yellow 0</name>
+        <number>0</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>1</amount>
+    </card>
+    <card>
+        <id>11</id>
+        <name>Yellow 1</name>
+        <number>1</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>12</id>
+        <name>Yellow 2</name>
+        <number>2</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>13</id>
+        <name>Yellow 3</name>
+        <number>3</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>14</id>
+        <name>Yellow 4</name>
+        <number>4</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>15</id>
+        <name>Yellow 5</name>
+        <number>5</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>16</id>
+        <name>Yellow 6</name>
+        <number>6</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>17</id>
+        <name>Yellow 7</name>
+        <number>7</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>18</id>
+        <name>Yellow 8</name>
+        <number>8</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>19</id>
+        <name>Yellow 9</name>
+        <number>9</number>
+        <color>Yellow</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>20</id>
+        <name>Green 0</name>
+        <number>0</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>1</amount>
+    </card>
+    <card>
+        <id>21</id>
+        <name>Green 1</name>
+        <number>1</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>22</id>
+        <name>Green 2</name>
+        <number>2</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>23</id>
+        <name>Green 3</name>
+        <number>3</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>24</id>
+        <name>Green 4</name>
+        <number>4</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>25</id>
+        <name>Green 5</name>
+        <number>5</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>26</id>
+        <name>Green 6</name>
+        <number>6</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>27</id>
+        <name>Green 7</name>
+        <number>7</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>28</id>
+        <name>Green 8</name>
+        <number>8</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>29</id>
+        <name>Green 9</name>
+        <number>9</number>
+        <color>Green</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>30</id>
+        <name>Blue 0</name>
+        <number>0</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>1</amount>
+    </card>
+    <card>
+        <id>31</id>
+        <name>Blue 1</name>
+        <number>1</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>32</id>
+        <name>Blue 2</name>
+        <number>2</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>33</id>
+        <name>Blue 3</name>
+        <number>3</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>34</id>
+        <name>Blue 4</name>
+        <number>4</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>35</id>
+        <name>Blue 5</name>
+        <number>5</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>36</id>
+        <name>Blue 6</name>
+        <number>6</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>37</id>
+        <name>Blue 7</name>
+        <number>7</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>38</id>
+        <name>Blue 8</name>
+        <number>8</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>39</id>
+        <name>Blue 9</name>
+        <number>9</number>
+        <color>Blue</color>
+        <isSpecial>0</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>40</id>
+        <name>Red Miss-a-Turn</name>
+        <number>-1</number>
+        <color>Red</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>41</id>
+        <name>Yellow Miss-a-Turn</name>
+        <number>-1</number>
+        <color>Yellow</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>42</id>
+        <name>Green Miss-a-Turn</name>
+        <number>-1</number>
+        <color>Green</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>43</id>
+        <name>Blue Miss-a-Turn</name>
+        <number>-1</number>
+        <color>Blue</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>50</id>
+        <name>Red Change-Direction</name>
+        <number>-2</number>
+        <color>Red</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>51</id>
+        <name>Yellow Change-Direction</name>
+        <number>-2</number>
+        <color>Yellow</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>52</id>
+        <name>Green Change-Direction</name>
+        <number>-2</number>
+        <color>Green</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>53</id>
+        <name>Blue Change-Direction</name>
+        <number>-2</number>
+        <color>Blue</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>60</id>
+        <name>Red Draw-Two</name>
+        <number>-3</number>
+        <color>Red</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>61</id>
+        <name>Yellow Draw-Two</name>
+        <number>-3</number>
+        <color>Yellow</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>62</id>
+        <name>Green Draw-Two</name>
+        <number>-3</number>
+        <color>Green</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>63</id>
+        <name>Blue Draw-Two</name>
+        <number>-3</number>
+        <color>Blue</color>
+        <isSpecial>1</isSpecial>
+        <amount>2</amount>
+    </card>
+    <card>
+        <id>60</id>
+        <name>Draw-Four</name>
+        <number>-4</number>
+        <color>Black</color>
+        <isSpecial>1</isSpecial>
+        <amount>4</amount>
+    </card>
+    <card>
+        <id>70</id>
+        <name>Choose-Color</name>
+        <number>-5</number>
+        <color>Black</color>
+        <isSpecial>1</isSpecial>
+        <amount>4</amount>
+    </card>
+</cards>
