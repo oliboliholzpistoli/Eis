@@ -26,9 +26,9 @@ public class Controller {
     private List<String> names;
     private List<Card> deck;
     private Game currentGame;
-    private static String DEFAULT_DECK_PATH = "resources/defaultCards.xml";
-    private static int DEFAULT_PLAYER_COUNT = 4;
-    private static int DEFAULT_CARDS_PER_PLAYER = 7;
+    private static final String DEFAULT_DECK_PATH = "resources/defaultCards.xml";
+    private static final int DEFAULT_PLAYER_COUNT = 4;
+    private static final int DEFAULT_CARDS_PER_PLAYER = 7;
 
     public Controller() {
         try {
